@@ -6,12 +6,14 @@ name = "pypi"
 [packages]
 requests = "*"
 pandas = "*"
-numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 tqdm = "*"
 icecream = "*"
+xgboost = "*"
+shap = "*"
+numpy = "==2.0"
 
 [dev-packages]
 
